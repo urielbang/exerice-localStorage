@@ -1,0 +1,10 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+  height: 25vh;
+  align-items: center;
+}
+#card {
+  width: 100vw;
+}
